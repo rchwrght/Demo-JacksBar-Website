@@ -1,0 +1,55 @@
+a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+a:hover {
+	color: #EFFF51;
+}
+
+.navbar {
+	background: #262751;
+	padding: 1px;
+}
+
+.navbar li{
+	list-style-type: none;
+	display: inline;
+	border-right: 4px solid #000;
+	font-size: 2.5em;
+	font-family: Lobster, cursive;
+}
+
+.navbar li:last-child {
+	border-right:none;
+}
+
+.header{
+	background: url("images/finalapres.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#logo {
+	width:90%;
+	padding: 0% 5%;
+}
+
+h3 {
+	text-align: center;
+	font-family: Lobster, cursive;
+	margin-bottom: 0px;
+}
+
+h4 {
+	text-align: center;
+	margin-top: 0px;
+}
+
+div:not(.navbar) {
+	padding: 50px 0px;
+}
+
+p {
+	text-align: center;
+}
