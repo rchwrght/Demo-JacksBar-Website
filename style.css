@@ -15,6 +15,7 @@ a:hover {
 h3 {
 	text-align: center;
 	font-family: Lobster, cursive;
+	font-size: 60px;
 	margin-bottom: 0px;
 }
 
@@ -41,19 +42,21 @@ p {
 	display: inline;
 	padding: 10px;
 	border-right: 2px solid #50517A;
+	border-bottom:2px solid #50517A;
 	border-left: 2px solid #5C5C8C;
+	border-top:2px solid #5C5C8C;
 	font-size: 2.5em;
 	font-family: Lobster, cursive;
 }
 
-.navbar li:last-child {
+/*.navbar li:last-child {
 	border-right:none;
 }
 
 .navbar li:first-child{
 	border-left: none;
 }
-
+*/
 .header{
 	background: url("images/finalapres.jpg");
 	background-repeat: no-repeat;
