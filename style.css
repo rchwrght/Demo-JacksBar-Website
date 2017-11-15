@@ -52,3 +52,7 @@ a.navbar-brand{
 .navbar-inverse .navbar-nav>li>a:hover{
 	color: #8e06b3;
 }
+
+.bottom-icons {
+	text-align: center;
+}
